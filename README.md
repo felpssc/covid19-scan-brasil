@@ -38,6 +38,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 - [React](https://reactjs.org/)
 - [Styled Components](https://styled-components.com/)
+- [Leaflet Map](https://leafletjs.com/)
 - [axios](https://www.npmjs.com/package/axios)
 - [Covid-19 Brazil API](https://covid19-brazil-api.now.sh/)
 - [VS Code](https://code.visualstudio.com/) 
