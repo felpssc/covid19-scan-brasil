@@ -14,6 +14,7 @@
 
 <br>
 
+
 ## Sobre a aplicação
   O Covid-19 Scan Brasil é uma pequena aplicação para buscar e exibir informações sobre os números de casos da covid-19 em cada estado brasileiro, a partir da API pública: <a href="https://covid19-brazil-api.now.sh/">Covid-19 Brazil API</a>.
 
